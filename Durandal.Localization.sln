@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Durandal1", "Durandal1\Durandal1.csproj", "{F8EB5FCB-C3FD-43AB-A343-E39E831F3D73}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Durandal", "source\Durandal.csproj", "{F8EB5FCB-C3FD-43AB-A343-E39E831F3D73}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{6F952F35-C43D-4E77-B822-E1F14349D01D}"
 	ProjectSection(SolutionItems) = preProject
@@ -16,7 +16,7 @@ Global
 		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
 		SccTeamFoundationServer = https://aso.visualstudio.com/defaultcollection
 		SccLocalPath0 = .
-		SccProjectUniqueName1 = Durandal1\\Durandal1.csproj
+		SccProjectUniqueName1 = source\Durandal.csproj
 		SccProjectName1 = Durandal1
 		SccLocalPath1 = Durandal1
 	EndGlobalSection
